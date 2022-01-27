@@ -3,15 +3,14 @@
 
 ## رابـط السـورس للتنـصيـب
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JMTHON-AR/jmthon)
+[! [نشر] ( https://www.herokucdn.com/deploy/button.svg )] ( https://heroku.com/deploy؟template=https://github.com/JMTHON-AR/JMTHON-AR) 
+## شكـرا لكـم
 
-## شكـرا لكـم 
 
+## المطـورين
 
-## المطـورين 
-
-[jmthon source](https://t.me/jmthon)
+[مصدر jmthon] ( https://t.me/jmthon )
 
 [MUHAMMAD](https://t.me/RR9R7)
 
-[JASEM](https://t.me/SBB_B)
+[جاسم] ( https://t.me/SBB_B )
